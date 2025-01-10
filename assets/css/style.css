@@ -71,6 +71,7 @@ section {
   margin-bottom: 1rem;
   background-color: beige;
   border-radius: 40px;
+  overflow: hidden;
 }
 .section-text {
   display: flex;
